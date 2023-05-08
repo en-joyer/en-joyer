@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enes.
 =============================================================================================================================
 
-Jr. Front End Developer
+Jr. QA Tester
 -----------------------
 
 * 🌍  I'm based in Uşak/TR.
 * ✉️  You can contact me at [enesyuruyen@gmail.com](mailto:enesyuruyen@gmail.com)
-* 🧠  I'm learning Javascript and JS Frameworks.
+* 🧠  Jack of all trades, master of some. :)
 
 ### Skills
 
