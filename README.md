@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Software Testing**
 
-- 📫 How to reach me **enesyuruyen@gmail.com**
+- 📫 How to reach me **enesyuruyen@gmail.com** | Discord: saspunas
 - 👨‍💻 All of my projects are available at **https://github.com/en-joyer?tab=repositories**
 
 <div> <a href="https://github.com/en-joyer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
