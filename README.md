@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">Test Automation Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=en-joyer&label=Profile%20views&color=0e75b6&style=flat" alt="en-joyer" /> </p>
-
-
-- 🌱 I’m currently learning **Full Stack Software Testing**
 
 - 📫 How to reach me **enesyuruyen@gmail.com** | Discord: saspunas
 - 👨‍💻 All of my projects are available at **https://github.com/en-joyer?tab=repositories**
