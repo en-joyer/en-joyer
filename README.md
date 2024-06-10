@@ -31,7 +31,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div class="tenor-gif-embed" data-postid="5911665922248763465" data-share-method="host" data-aspect-ratio="26.6667" data-width="100%"><a href="https://tenor.com/view/dividers-divider-galaxy-dividers-galaxy-divider-gif-5911665922248763465">Dividers Divider GIF</a>from <a href="https://tenor.com/search/dividers-gifs">Dividers GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<h3 align="center">Statistics</h3>
+
 <div align="center">
 <a href="https://github.com/en-joyer">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=en-joyer&theme=2077" height="180em" />
