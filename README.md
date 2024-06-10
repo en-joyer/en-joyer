@@ -39,5 +39,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=en-joyer&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=en-joyer&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=en-joyer&theme=2077" height="180em" />
-<img align="center" src="https://github.com/ezzcodeezzlife/ezzcodeezzlife/blob/output/github-contribution-grid-snake.svg" height="180em"/>
 </div>
